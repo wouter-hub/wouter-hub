@@ -99,7 +99,7 @@ I’m a developer specializing in <strong>Minecraft plugins</strong>, <strong>we
 ## 📫 Contact
 
 <a href="https://discord.com/users/MrSoundXD">
-  <img src="https://img.shields.io/badge/Discord-MrSoundXD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-maris2750-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 <a href="mailto:gitmrsoundxd@gmail.com">
   <img src="https://img.shields.io/badge/Email-gitmrsoundxd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">

@@ -32,9 +32,9 @@ I’m a developer specializing in **Minecraft plugins**, **web development**, an
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-six-dun-78.vercel.app/api?username=MrSoundXD&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-dsw3.vercel.app/api?username=wouter-hub&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-six-dun-78.vercel.app/api/top-langs/?username=MrSoundXD&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-dsw3.vercel.app/api/top-langs?username=wouter-hub&layout=compact&theme=tokyonight)
 
 
 ## 📫 Contact

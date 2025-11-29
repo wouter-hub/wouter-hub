@@ -1,43 +1,97 @@
+<div align="center">
+
 # Hi, I'm Wouter 👋
 
-## 🚀 About Me
-I’m a developer specializing in **Minecraft plugins**, **web development**, and **Discord bot development**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+Developer;Full+Stack+Web+Developer;Discord+Bot+Creator" alt="Typing SVG" />
+</a>
+
+<br>
+
+<p align="center" width="60%">
+I’m a developer specializing in <strong>Minecraft plugins</strong>, <strong>web development</strong>, and <strong>Discord bot development</strong>.
+</p>
+
+<br>
+
+---
 
 ## 🧰 Tech Stack
 
-### **Languages**
-- Java (Minecraft plugins)
-- JavaScript / TypeScript
-- Python
-- Lua
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+</p>
 
-### **Frameworks & Libraries**
-- Spigot / Paper / Velocity / Bukkit
-- React
-- Node.js
-- Express
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spigot_API-FF5722?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spigot">
+  <img src="https://img.shields.io/badge/Paper_MC-000000?style=for-the-badge&logo=paper&logoColor=white" alt="Paper">
+  <img src="https://img.shields.io/badge/Velocity-00ACE6?style=for-the-badge&logo=velocity&logoColor=white" alt="Velocity">
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
+</p>
 
-### **Tools & Platforms**
-- Git & GitHub
-- Docker
-- Linux servers
-- MongoDB / MySQL
-- Discord.js
-- IntelliJ IDEA • VS Code
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <br>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
+<br>
+
+---
 
 ## 🌟 Featured Projects
-- **Project One** – Coming Soon
 
+<img src="https://img.shields.io/badge/Project_One-Coming_Soon...-7AA2F7?style=for-the-badge" alt="Coming Soon">
+
+<br>
+<br>
+
+---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-dsw3.vercel.app/api?username=wouter-hub&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-dsw3.vercel.app/api?username=wouter-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
+  <img src="https://github-readme-stats-dsw3.vercel.app/api/top-langs?username=wouter-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="langs" />
+</p>
 
-![Top Languages](https://github-readme-stats-dsw3.vercel.app/api/top-langs?username=wouter-hub&layout=compact&theme=tokyonight)
+<br>
 
+---
 
 ## 📫 Contact
-- Discord: **MrSoundXD**
-- Portfolio Website: Coming Soon
-- Email: **gitmrsoundxd@gmail.com**
+
+<a href="https://discord.com/users/MrSoundXD">
+  <img src="https://img.shields.io/badge/Discord-MrSoundXD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="mailto:gitmrsoundxd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gitmrsoundxd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://wouter-hub.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-View_Website-2f354b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<br><br>
+
+</div>
